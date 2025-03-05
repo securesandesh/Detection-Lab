@@ -1,5 +1,4 @@
 # Detection-Lab
-# PROJECTNAME
 
 ## Objective
 [Brief Objective]
